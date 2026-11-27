@@ -1,10 +1,4 @@
 <div align="center">
-  
-<br/>
-
-</div>
-
-<br/>
 
 ---
 
