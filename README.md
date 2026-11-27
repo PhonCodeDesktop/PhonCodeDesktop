@@ -1,6 +1,3 @@
-<div align="center">
-
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
