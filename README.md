@@ -13,19 +13,9 @@
 ### 🧩 Stack & Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
 </div>
 
-<br/>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
-</div>
 
 ---
 
