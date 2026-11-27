@@ -6,7 +6,6 @@
 
 [![Buenos Aires](https://img.shields.io/badge/Buenos_Aires%2C_AR-0d1117?style=for-the-badge&logo=openstreetmap&logoColor=00f0ff)](#)
 [![GitHub Followers](https://img.shields.io/github/followers/PhonCodeDesktop?style=for-the-badge&logo=github&label=Followers&color=00f0ff&labelColor=0d1117)](https://github.com/PhonCodeDesktop)
-[![Focus](https://img.shields.io/badge/Building%20%26%20Learning-0d1117?style=for-the-badge&logo=codeforces&logoColor=00f0ff)](#)
 
 </div>
 
