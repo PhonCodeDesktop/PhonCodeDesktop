@@ -2,15 +2,11 @@
   
 <br/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/PhonCodeDesktop?style=for-the-badge&logo=github&label=Followers&color=00f0ff&labelColor=0d1117)](https://github.com/PhonCodeDesktop)
-
 </div>
 
 <br/>
 
 ---
-
-### 🧩 Stack & Herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
@@ -18,8 +14,6 @@
 
 
 ---
-
-### 📊 Actividad & Contribuciones
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00f0ff/PhonCodeDesktop" alt="Gráfico de contribuciones de PhonCodeDesktop" />
