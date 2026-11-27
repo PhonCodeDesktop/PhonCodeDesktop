@@ -12,9 +12,6 @@
 
 <br/>
 
-> [!NOTE]
-> **Enfoque:** Aprender construyendo, entender la lógica detrás de cada cosa y armar interfaces y herramientas con identidad propia.
-
 ---
 
 ### 🧩 Stack & Herramientas
