@@ -39,26 +39,6 @@
 
 ---
 
-### 🚀 Proyectos & Experimentos
-
-| 🛠️ Proyecto | 📝 Qué hace | ⚙️ Stack | 📌 Estado |
-| :--- | :--- | :--- | :--- |
-| **ControlTaller** | Gestión para servicio técnico: órdenes, inventario, finanzas y flyers. | `React` `Desktop` `SQL` | `Activo` |
-| **MiLauncher2** | Launcher y pantalla de bloqueo personalizada con estética terminal y shaders. | `Mobile` `UI` `Shaders` | `En progreso` |
-| **Tactical FPS** | Shooter táctico en primera persona con rondas, compra y mecánicas de objetivo. | `Godot` `Game Dev` | `Prototipo` |
-| **PCGameCheck** | Utilidad para revisar hardware del equipo y evaluar compatibilidad de juegos. | `Tools` `Scripting` | `Listo` |
-
----
-
-### 🧪 En qué ando
-
-* 🖥️ **Interfaces & Estética:** Me gustan las UIs oscuras, limpias, tipo terminal/HUD y con transiciones bien cuidadas.
-* 🎮 **Game Dev & Mecánicas:** Probando ideas, jugabilidad, shaders y estructuras de escenas en Godot.
-* 🐧 **Entorno & Flujo de trabajo:** Ajustando el sistema, el editor y las herramientas para trabajar rápido y sin estorbos.
-* 📚 **Fundamentos Web:** Reforzando maquetación, estilos y lógica JavaScript con proyectos reales.
-
----
-
 ### 📊 Actividad & Contribuciones
 
 <div align="center">
