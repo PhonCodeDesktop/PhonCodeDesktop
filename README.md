@@ -15,7 +15,7 @@
 ### 🧩 Stack & Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,cs,kotlin,c,godot,androidstudio,sqlite,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,godot,vscode,git,github,arch,linux,windows&perline=9&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
