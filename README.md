@@ -1,6 +1,5 @@
 <div align="center">
 
-# Andres
 ### `Frontend` · `Desktop Apps` · `ArchLinux` · `Game Dev`
 
 <br/>
@@ -48,8 +47,6 @@
 </details>
 
 ---
-
-### 📡 Contacto
 
 <div align="center">
 
