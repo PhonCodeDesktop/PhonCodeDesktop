@@ -11,10 +11,6 @@
 </div>
 
 <br/>
-
-> [!NOTE]
-> **Filosofía de trabajo:** Aprender construyendo, entender qué pasa por debajo, cuidar la estética de las interfaces y entregar proyectos funcionales de principio a fin.
-
 ---
 
 ### 🧩 Stack & Herramientas
@@ -37,7 +33,6 @@
 
 <details>
 <summary><b>📈 Ver tarjetas de estadísticas (si el servicio externo responde)</b></summary>
-<br/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PhonCodeDesktop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" alt="GitHub Stats" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhonCodeDesktop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" alt="Top Languages" />
